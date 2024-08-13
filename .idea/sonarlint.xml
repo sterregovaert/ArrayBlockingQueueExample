@@ -3,7 +3,7 @@
   <component name="SonarLintProjectSettings">
     <option name="moduleMapping">
       <map>
-        <entry key="ArrayBlockingQueueExample" value="Threads_1" />
+        <entry key="ArrayBlockingQueueExample - Running Relay" value="Threads_1" />
       </map>
     </option>
   </component>
